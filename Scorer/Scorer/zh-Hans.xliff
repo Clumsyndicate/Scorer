@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Scorer/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="zh-Hans">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2" build-num="9C40b"/>
+    </header>
+    <body>
+      <trans-unit id="1L8-ar-rGg.title">
+        <source>Scoring</source>
+        <note>Class = "NSMenu"; title = "Scoring"; ObjectID = "1L8-ar-rGg";</note>
+      </trans-unit>
+      <trans-unit id="1UK-8n-QPP.title">
+        <source>Customize Toolbar…</source>
+        <target>Customize Toolbar…</target>
+        <note>Class = "NSMenuItem"; title = "Customize Toolbar…"; ObjectID = "1UK-8n-QPP";</note>
+      </trans-unit>
+      <trans-unit id="1Xt-HY-uBw.title">
+        <source>Scorer</source>
+        <target>积分牌</target>
+        <note>Class = "NSMenuItem"; title = "Scorer"; ObjectID = "1Xt-HY-uBw";</note>
+      </trans-unit>
+      <trans-unit id="1b7-l0-nxx.title">
+        <source>Find</source>
+        <target>Find</target>
+        <note>Class = "NSMenu"; title = "Find"; ObjectID = "1b7-l0-nxx";</note>
+      </trans-unit>
+      <trans-unit id="2oI-Rn-ZJC.title">
+        <source>Transformations</source>
+        <target>Transformations</target>
+        <note>Class = "NSMenuItem"; title = "Transformations"; ObjectID = "2oI-Rn-ZJC";</note>
+      </trans-unit>
+      <trans-unit id="3IN-sU-3Bg.title">
+        <source>Spelling</source>
+        <target>Spelling</target>
+        <note>Class = "NSMenu"; title = "Spelling"; ObjectID = "3IN-sU-3Bg";</note>
+      </trans-unit>
+      <trans-unit id="3rS-ZA-NoH.title">
+        <source>Speech</source>
+        <target>Speech</target>
+        <note>Class = "NSMenu"; title = "Speech"; ObjectID = "3rS-ZA-NoH";</note>
+      </trans-unit>
+      <trans-unit id="4EN-yA-p0u.title">
+        <source>Find</source>
+        <target>Find</target>
+        <note>Class = "NSMenuItem"; title = "Find"; ObjectID = "4EN-yA-p0u";</note>
+      </trans-unit>
+      <trans-unit id="4J7-dP-txa.title">
+        <source>Enter Full Screen</source>
+        <target>Enter Full Screen</target>
+        <note>Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "4J7-dP-txa";</note>
+      </trans-unit>
+      <trans-unit id="4sb-4s-VLi.title">
+        <source>Quit Scorer</source>
+        <target>Quit Scorer</target>
+        <note>Class = "NSMenuItem"; title = "Quit Scorer"; ObjectID = "4sb-4s-VLi";</note>
+      </trans-unit>
+      <trans-unit id="5QF-Oa-p0T.title">
+        <source>Edit</source>
+        <target>Edit</target>
+        <note>Class = "NSMenuItem"; title = "Edit"; ObjectID = "5QF-Oa-p0T";</note>
+      </trans-unit>
+      <trans-unit id="5kV-Vb-QxS.title">
+        <source>About Scorer</source>
+        <target>About Scorer</target>
+        <note>Class = "NSMenuItem"; title = "About Scorer"; ObjectID = "5kV-Vb-QxS";</note>
+      </trans-unit>
+      <trans-unit id="6dh-zS-Vam.title">
+        <source>Redo</source>
+        <target>Redo</target>
+        <note>Class = "NSMenuItem"; title = "Redo"; ObjectID = "6dh-zS-Vam";</note>
+      </trans-unit>
+      <trans-unit id="9ic-FL-obx.title">
+        <source>Substitutions</source>
+        <target>Substitutions</target>
+        <note>Class = "NSMenuItem"; title = "Substitutions"; ObjectID = "9ic-FL-obx";</note>
+      </trans-unit>
+      <trans-unit id="9yt-4B-nSM.title">
+        <source>Smart Copy/Paste</source>
+        <target>Smart Copy/Paste</target>
+        <note>Class = "NSMenuItem"; title = "Smart Copy/Paste"; ObjectID = "9yt-4B-nSM";</note>
+      </trans-unit>
+      <trans-unit id="78Y-hA-62v.title">
+        <source>Correct Spelling Automatically</source>
+        <target>Correct Spelling Automatically</target>
+        <note>Class = "NSMenuItem"; title = "Correct Spelling Automatically"; ObjectID = "78Y-hA-62v";</note>
+      </trans-unit>
+      <trans-unit id="AYu-sK-qS6.title">
+        <source>Main Menu</source>
+        <target>Main Menu</target>
+        <note>Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6";</note>
+      </trans-unit>
+      <trans-unit id="BOF-NM-1cW.title">
+        <source>Preferences…</source>
+        <target>Preferences…</target>
+        <note>Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW";</note>
+      </trans-unit>
+      <trans-unit id="Bw7-FT-i3A.title">
+        <source>Save As…</source>
+        <target>Save As…</target>
+        <note>Class = "NSMenuItem"; title = "Save As…"; ObjectID = "Bw7-FT-i3A";</note>
+      </trans-unit>
+      <trans-unit id="DVo-aG-piG.title">
+        <source>Close</source>
+        <target>Close</target>
+        <note>Class = "NSMenuItem"; title = "Close"; ObjectID = "DVo-aG-piG";</note>
+      </trans-unit>
+      <trans-unit id="Dv1-io-Yv7.title">
+        <source>Spelling and Grammar</source>
+        <target>Spelling and Grammar</target>
+        <note>Class = "NSMenuItem"; title = "Spelling and Grammar"; ObjectID = "Dv1-io-Yv7";</note>
+      </trans-unit>
+      <trans-unit id="F2S-fz-NVQ.title">
+        <source>Help</source>
+        <target>Help</target>
+        <note>Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ";</note>
+      </trans-unit>
+      <trans-unit id="FKE-Sm-Kum.title">
+        <source>Scorer Help</source>
+        <target>Scorer Help</target>
+        <note>Class = "NSMenuItem"; title = "Scorer Help"; ObjectID = "FKE-Sm-Kum";</note>
+      </trans-unit>
+      <trans-unit id="FeM-D8-WVr.title">
+        <source>Substitutions</source>
+        <target>Substitutions</target>
+        <note>Class = "NSMenu"; title = "Substitutions"; ObjectID = "FeM-D8-WVr";</note>
+      </trans-unit>
+      <trans-unit id="H8h-7b-M4v.title">
+        <source>View</source>
+        <target>View</target>
+        <note>Class = "NSMenuItem"; title = "View"; ObjectID = "H8h-7b-M4v";</note>
+      </trans-unit>
+      <trans-unit id="HFQ-gK-NFA.title">
+        <source>Text Replacement</source>
+        <target>Text Replacement</target>
+        <note>Class = "NSMenuItem"; title = "Text Replacement"; ObjectID = "HFQ-gK-NFA";</note>
+      </trans-unit>
+      <trans-unit id="HFo-cy-zxI.title">
+        <source>Show Spelling and Grammar</source>
+        <target>Show Spelling and Grammar</target>
+        <note>Class = "NSMenuItem"; title = "Show Spelling and Grammar"; ObjectID = "HFo-cy-zxI";</note>
+      </trans-unit>
+      <trans-unit id="HHy-kB-Pnq.title">
+        <source>Team #2</source>
+        <target>Team #2</target>
+        <note>Class = "NSTextFieldCell"; title = "Team #2"; ObjectID = "HHy-kB-Pnq";</note>
+      </trans-unit>
+      <trans-unit id="HyV-fh-RgO.title">
+        <source>View</source>
+        <target>View</target>
+        <note>Class = "NSMenu"; title = "View"; ObjectID = "HyV-fh-RgO";</note>
+      </trans-unit>
+      <trans-unit id="IAo-SY-fd9.title">
+        <source>Open…</source>
+        <target>Open…</target>
+        <note>Class = "NSMenuItem"; title = "Open…"; ObjectID = "IAo-SY-fd9";</note>
+      </trans-unit>
+      <trans-unit id="IQv-IB-iLA.title">
+        <source>Scorer</source>
+        <target>Scorer</target>
+        <note>Class = "NSWindow"; title = "Scorer"; ObjectID = "IQv-IB-iLA";</note>
+      </trans-unit>
+      <trans-unit id="Jce-4p-rJ6.title">
+        <source>00</source>
+        <target>00</target>
+        <note>Class = "NSTextFieldCell"; title = "00"; ObjectID = "Jce-4p-rJ6";</note>
+      </trans-unit>
+      <trans-unit id="KaW-ft-85H.title">
+        <source>Revert to Saved</source>
+        <target>Revert to Saved</target>
+        <note>Class = "NSMenuItem"; title = "Revert to Saved"; ObjectID = "KaW-ft-85H";</note>
+      </trans-unit>
+      <trans-unit id="Kd2-mp-pUS.title">
+        <source>Show All</source>
+        <target>Show All</target>
+        <note>Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS";</note>
+      </trans-unit>
+      <trans-unit id="LE2-aR-0XJ.title">
+        <source>Bring All to Front</source>
+        <target>Bring All to Front</target>
+        <note>Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "LE2-aR-0XJ";</note>
+      </trans-unit>
+      <trans-unit id="NMo-om-nkz.title">
+        <source>Services</source>
+        <target>Services</target>
+        <note>Class = "NSMenuItem"; title = "Services"; ObjectID = "NMo-om-nkz";</note>
+      </trans-unit>
+      <trans-unit id="NPe-eO-cZo.title">
+        <source>Team 2</source>
+        <target>Team 2</target>
+        <note>Class = "NSTextFieldCell"; title = "Team 2"; ObjectID = "NPe-eO-cZo";</note>
+      </trans-unit>
+      <trans-unit id="OKD-ox-ynJ.title">
+        <source>Team 1</source>
+        <target>Team 1</target>
+        <note>Class = "NSTextFieldCell"; title = "Team 1"; ObjectID = "OKD-ox-ynJ";</note>
+      </trans-unit>
+      <trans-unit id="OY7-WF-poV.title">
+        <source>Minimize</source>
+        <target>Minimize</target>
+        <note>Class = "NSMenuItem"; title = "Minimize"; ObjectID = "OY7-WF-poV";</note>
+      </trans-unit>
+      <trans-unit id="Olw-nP-bQN.title">
+        <source>Hide Scorer</source>
+        <target>Hide Scorer</target>
+        <note>Class = "NSMenuItem"; title = "Hide Scorer"; ObjectID = "Olw-nP-bQN";</note>
+      </trans-unit>
+      <trans-unit id="OwM-mh-QMV.title">
+        <source>Find Previous</source>
+        <target>Find Previous</target>
+        <note>Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "OwM-mh-QMV";</note>
+      </trans-unit>
+      <trans-unit id="Oyz-dy-DGm.title">
+        <source>Stop Speaking</source>
+        <target>Stop Speaking</target>
+        <note>Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "Oyz-dy-DGm";</note>
+      </trans-unit>
+      <trans-unit id="QgC-DH-ImP.title">
+        <source>Team 1</source>
+        <note>Class = "NSMenuItem"; title = "Team 1"; ObjectID = "QgC-DH-ImP";</note>
+      </trans-unit>
+      <trans-unit id="R4o-n2-Eq4.title">
+        <source>Zoom</source>
+        <target>Zoom</target>
+        <note>Class = "NSMenuItem"; title = "Zoom"; ObjectID = "R4o-n2-Eq4";</note>
+      </trans-unit>
+      <trans-unit id="Ruw-6m-B2m.title">
+        <source>Select All</source>
+        <target>Select All</target>
+        <note>Class = "NSMenuItem"; title = "Select All"; ObjectID = "Ruw-6m-B2m";</note>
+      </trans-unit>
+      <trans-unit id="S0p-oC-mLd.title">
+        <source>Jump to Selection</source>
+        <target>Jump to Selection</target>
+        <note>Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "S0p-oC-mLd";</note>
+      </trans-unit>
+      <trans-unit id="Td7-aD-5lo.title">
+        <source>Window</source>
+        <target>Window</target>
+        <note>Class = "NSMenu"; title = "Window"; ObjectID = "Td7-aD-5lo";</note>
+      </trans-unit>
+      <trans-unit id="Ths-O4-ifh.title">
+        <source>Name</source>
+        <note>Class = "NSTextFieldCell"; title = "Name"; ObjectID = "Ths-O4-ifh";</note>
+      </trans-unit>
+      <trans-unit id="U0a-vn-bpd.title">
+        <source>Menu</source>
+        <note>Class = "NSMenu"; title = "Menu"; ObjectID = "U0a-vn-bpd";</note>
+      </trans-unit>
+      <trans-unit id="UEZ-Bs-lqG.title">
+        <source>Capitalize</source>
+        <target>Capitalize</target>
+        <note>Class = "NSMenuItem"; title = "Capitalize"; ObjectID = "UEZ-Bs-lqG";</note>
+      </trans-unit>
+      <trans-unit id="Vdr-fp-XzO.title">
+        <source>Hide Others</source>
+        <target>Hide Others</target>
+        <note>Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO";</note>
+      </trans-unit>
+      <trans-unit id="W48-6f-4Dl.title">
+        <source>Edit</source>
+        <target>Edit</target>
+        <note>Class = "NSMenu"; title = "Edit"; ObjectID = "W48-6f-4Dl";</note>
+      </trans-unit>
+      <trans-unit id="Was-JA-tGl.title">
+        <source>New</source>
+        <target>New</target>
+        <note>Class = "NSMenuItem"; title = "New"; ObjectID = "Was-JA-tGl";</note>
+      </trans-unit>
+      <trans-unit id="WeT-3V-zwk.title">
+        <source>Paste and Match Style</source>
+        <target>Paste and Match Style</target>
+        <note>Class = "NSMenuItem"; title = "Paste and Match Style"; ObjectID = "WeT-3V-zwk";</note>
+      </trans-unit>
+      <trans-unit id="Wt0-jP-ifX.title">
+        <source>Score</source>
+        <note>Class = "NSTextFieldCell"; title = "Score"; ObjectID = "Wt0-jP-ifX";</note>
+      </trans-unit>
+      <trans-unit id="Xz5-n4-O0W.title">
+        <source>Find…</source>
+        <target>Find…</target>
+        <note>Class = "NSMenuItem"; title = "Find…"; ObjectID = "Xz5-n4-O0W";</note>
+      </trans-unit>
+      <trans-unit id="YEy-JH-Tfz.title">
+        <source>Find and Replace…</source>
+        <target>Find and Replace…</target>
+        <note>Class = "NSMenuItem"; title = "Find and Replace…"; ObjectID = "YEy-JH-Tfz";</note>
+      </trans-unit>
+      <trans-unit id="Ynk-f8-cLZ.title">
+        <source>Start Speaking</source>
+        <target>Start Speaking</target>
+        <note>Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "Ynk-f8-cLZ";</note>
+      </trans-unit>
+      <trans-unit id="Yxg-EK-ULY.title">
+        <source>Scoring</source>
+        <note>Class = "NSMenuItem"; title = "Scoring"; ObjectID = "Yxg-EK-ULY";</note>
+      </trans-unit>
+      <trans-unit id="Z3o-3G-wWX.title">
+        <source>Save</source>
+        <note>Class = "NSButtonCell"; title = "Save"; ObjectID = "Z3o-3G-wWX";</note>
+      </trans-unit>
+      <trans-unit id="aTl-1u-JFS.title">
+        <source>Print…</source>
+        <target>Print…</target>
+        <note>Class = "NSMenuItem"; title = "Print…"; ObjectID = "aTl-1u-JFS";</note>
+      </trans-unit>
+      <trans-unit id="aUF-d1-5bR.title">
+        <source>Window</source>
+        <target>Window</target>
+        <note>Class = "NSMenuItem"; title = "Window"; ObjectID = "aUF-d1-5bR";</note>
+      </trans-unit>
+      <trans-unit id="bib-Uj-vzu.title">
+        <source>File</source>
+        <target>File</target>
+        <note>Class = "NSMenu"; title = "File"; ObjectID = "bib-Uj-vzu";</note>
+      </trans-unit>
+      <trans-unit id="buJ-ug-pKt.title">
+        <source>Use Selection for Find</source>
+        <target>Use Selection for Find</target>
+        <note>Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "buJ-ug-pKt";</note>
+      </trans-unit>
+      <trans-unit id="c8a-y6-VQd.title">
+        <source>Transformations</source>
+        <target>Transformations</target>
+        <note>Class = "NSMenu"; title = "Transformations"; ObjectID = "c8a-y6-VQd";</note>
+      </trans-unit>
+      <trans-unit id="cj4-qP-9rt.title">
+        <source>Settings</source>
+        <target>设置</target>
+        <note>Class = "NSTextFieldCell"; title = "Settings"; ObjectID = "cj4-qP-9rt";</note>
+      </trans-unit>
+      <trans-unit id="cwL-P1-jid.title">
+        <source>Smart Links</source>
+        <target>Smart Links</target>
+        <note>Class = "NSMenuItem"; title = "Smart Links"; ObjectID = "cwL-P1-jid";</note>
+      </trans-unit>
+      <trans-unit id="czr-Mf-XrJ.title">
+        <source>Cancel</source>
+        <note>Class = "NSButtonCell"; title = "Cancel"; ObjectID = "czr-Mf-XrJ";</note>
+      </trans-unit>
+      <trans-unit id="d9M-CD-aMd.title">
+        <source>Make Lower Case</source>
+        <target>Make Lower Case</target>
+        <note>Class = "NSMenuItem"; title = "Make Lower Case"; ObjectID = "d9M-CD-aMd";</note>
+      </trans-unit>
+      <trans-unit id="dMs-cI-mzQ.title">
+        <source>File</source>
+        <target>File</target>
+        <note>Class = "NSMenuItem"; title = "File"; ObjectID = "dMs-cI-mzQ";</note>
+      </trans-unit>
+      <trans-unit id="dRJ-4n-Yzg.title">
+        <source>Undo</source>
+        <target>Undo</target>
+        <note>Class = "NSMenuItem"; title = "Undo"; ObjectID = "dRJ-4n-Yzg";</note>
+      </trans-unit>
+      <trans-unit id="dZJ-gt-xAj.title">
+        <source>Add</source>
+        <note>Class = "NSMenuItem"; title = "Add"; ObjectID = "dZJ-gt-xAj";</note>
+      </trans-unit>
+      <trans-unit id="gVA-U4-sdL.title">
+        <source>Paste</source>
+        <target>Paste</target>
+        <note>Class = "NSMenuItem"; title = "Paste"; ObjectID = "gVA-U4-sdL";</note>
+      </trans-unit>
+      <trans-unit id="hQb-2v-fYv.title">
+        <source>Smart Quotes</source>
+        <target>Smart Quotes</target>
+        <note>Class = "NSMenuItem"; title = "Smart Quotes"; ObjectID = "hQb-2v-fYv";</note>
+      </trans-unit>
+      <trans-unit id="hz2-CU-CR7.title">
+        <source>Check Document Now</source>
+        <target>Check Document Now</target>
+        <note>Class = "NSMenuItem"; title = "Check Document Now"; ObjectID = "hz2-CU-CR7";</note>
+      </trans-unit>
+      <trans-unit id="hz9-B4-Xy5.title">
+        <source>Services</source>
+        <target>Services</target>
+        <note>Class = "NSMenu"; title = "Services"; ObjectID = "hz9-B4-Xy5";</note>
+      </trans-unit>
+      <trans-unit id="j3H-rk-fMP.title">
+        <source>Settings</source>
+        <target>Settings</target>
+        <note>Class = "NSButtonCell"; title = "Settings"; ObjectID = "j3H-rk-fMP";</note>
+      </trans-unit>
+      <trans-unit id="jev-Gj-dE5.title">
+        <source>Team 2</source>
+        <note>Class = "NSMenuItem"; title = "Team 2"; ObjectID = "jev-Gj-dE5";</note>
+      </trans-unit>
+      <trans-unit id="kIP-vf-haE.title">
+        <source>Show Sidebar</source>
+        <target>Show Sidebar</target>
+        <note>Class = "NSMenuItem"; title = "Show Sidebar"; ObjectID = "kIP-vf-haE";</note>
+      </trans-unit>
+      <trans-unit id="mK6-2p-4JG.title">
+        <source>Check Grammar With Spelling</source>
+        <target>Check Grammar With Spelling</target>
+        <note>Class = "NSMenuItem"; title = "Check Grammar With Spelling"; ObjectID = "mK6-2p-4JG";</note>
+      </trans-unit>
+      <trans-unit id="oXM-A1-uf0.title">
+        <source>00</source>
+        <target>00</target>
+        <note>Class = "NSTextFieldCell"; title = "00"; ObjectID = "oXM-A1-uf0";</note>
+      </trans-unit>
+      <trans-unit id="oas-Oc-fiZ.title">
+        <source>Open Recent</source>
+        <target>Open Recent</target>
+        <note>Class = "NSMenu"; title = "Open Recent"; ObjectID = "oas-Oc-fiZ";</note>
+      </trans-unit>
+      <trans-unit id="pa3-QI-u2k.title">
+        <source>Delete</source>
+        <target>Delete</target>
+        <note>Class = "NSMenuItem"; title = "Delete"; ObjectID = "pa3-QI-u2k";</note>
+      </trans-unit>
+      <trans-unit id="pxx-59-PXV.title">
+        <source>Save…</source>
+        <target>Save…</target>
+        <note>Class = "NSMenuItem"; title = "Save…"; ObjectID = "pxx-59-PXV";</note>
+      </trans-unit>
+      <trans-unit id="q09-fT-Sye.title">
+        <source>Find Next</source>
+        <target>Find Next</target>
+        <note>Class = "NSMenuItem"; title = "Find Next"; ObjectID = "q09-fT-Sye";</note>
+      </trans-unit>
+      <trans-unit id="qIS-W8-SiK.title">
+        <source>Page Setup…</source>
+        <target>Page Setup…</target>
+        <note>Class = "NSMenuItem"; title = "Page Setup…"; ObjectID = "qIS-W8-SiK";</note>
+      </trans-unit>
+      <trans-unit id="rbD-Rh-wIN.title">
+        <source>Check Spelling While Typing</source>
+        <target>Check Spelling While Typing</target>
+        <note>Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "rbD-Rh-wIN";</note>
+      </trans-unit>
+      <trans-unit id="rgM-f4-ycn.title">
+        <source>Smart Dashes</source>
+        <target>Smart Dashes</target>
+        <note>Class = "NSMenuItem"; title = "Smart Dashes"; ObjectID = "rgM-f4-ycn";</note>
+      </trans-unit>
+      <trans-unit id="snW-S8-Cw5.title">
+        <source>Show Toolbar</source>
+        <target>Show Toolbar</target>
+        <note>Class = "NSMenuItem"; title = "Show Toolbar"; ObjectID = "snW-S8-Cw5";</note>
+      </trans-unit>
+      <trans-unit id="tRr-pd-1PS.title">
+        <source>Data Detectors</source>
+        <target>Data Detectors</target>
+        <note>Class = "NSMenuItem"; title = "Data Detectors"; ObjectID = "tRr-pd-1PS";</note>
+      </trans-unit>
+      <trans-unit id="tXI-mr-wws.title">
+        <source>Open Recent</source>
+        <target>Open Recent</target>
+        <note>Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "tXI-mr-wws";</note>
+      </trans-unit>
+      <trans-unit id="uQy-DD-JDr.title">
+        <source>Scorer</source>
+        <target>Scorer</target>
+        <note>Class = "NSMenu"; title = "Scorer"; ObjectID = "uQy-DD-JDr";</note>
+      </trans-unit>
+      <trans-unit id="uRl-iY-unG.title">
+        <source>Cut</source>
+        <target>Cut</target>
+        <note>Class = "NSMenuItem"; title = "Cut"; ObjectID = "uRl-iY-unG";</note>
+      </trans-unit>
+      <trans-unit id="vNY-rz-j42.title">
+        <source>Clear Menu</source>
+        <target>Clear Menu</target>
+        <note>Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "vNY-rz-j42";</note>
+      </trans-unit>
+      <trans-unit id="vmV-6d-7jI.title">
+        <source>Make Upper Case</source>
+        <target>Make Upper Case</target>
+        <note>Class = "NSMenuItem"; title = "Make Upper Case"; ObjectID = "vmV-6d-7jI";</note>
+      </trans-unit>
+      <trans-unit id="wQ8-3k-mBB.title">
+        <source>Team #1</source>
+        <target>Team #1</target>
+        <note>Class = "NSTextFieldCell"; title = "Team #1"; ObjectID = "wQ8-3k-mBB";</note>
+      </trans-unit>
+      <trans-unit id="wpr-3q-Mcd.title">
+        <source>Help</source>
+        <target>Help</target>
+        <note>Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd";</note>
+      </trans-unit>
+      <trans-unit id="x3v-GG-iWU.title">
+        <source>Copy</source>
+        <target>Copy</target>
+        <note>Class = "NSMenuItem"; title = "Copy"; ObjectID = "x3v-GG-iWU";</note>
+      </trans-unit>
+      <trans-unit id="xrE-MZ-jX0.title">
+        <source>Speech</source>
+        <target>Speech</target>
+        <note>Class = "NSMenuItem"; title = "Speech"; ObjectID = "xrE-MZ-jX0";</note>
+      </trans-unit>
+      <trans-unit id="z6F-FW-3nz.title">
+        <source>Show Substitutions</source>
+        <target>Show Substitutions</target>
+        <note>Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "z6F-FW-3nz";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Scorer/Info.plist" source-language="en" datatype="plaintext" target-language="zh-Hans">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2" build-num="9C40b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright">
+        <source>Copyright © 2018 Johnson Zhou. All rights reserved.</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Scorer/Localizable.strings" source-language="en" datatype="plaintext" target-language="zh-Hans">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.2" build-num="9C40b"/>
+    </header>
+    <body>
+      <trans-unit id="Cancel">
+        <source>Cancel</source>
+        <note>Cancel button title</note>
+      </trans-unit>
+      <trans-unit id="Could not save changes while quitting. Quit anyway?">
+        <source>Could not save changes while quitting. Quit anyway?</source>
+        <note>Quit without saves error question message</note>
+      </trans-unit>
+      <trans-unit id="Quit anyway">
+        <source>Quit anyway</source>
+        <note>Quit anyway button title</note>
+      </trans-unit>
+      <trans-unit id="Quitting now will lose any changes you have made since the last successful save">
+        <source>Quitting now will lose any changes you have made since the last successful save</source>
+        <note>Quit without saves error question info</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

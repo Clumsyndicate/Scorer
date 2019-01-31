@@ -7,22 +7,54 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7218E16521EDA862004583F9 /* AddViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7218E16321EDA862004583F9 /* AddViewController.swift */; };
+		7218E16621EDA862004583F9 /* AddViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7218E16421EDA862004583F9 /* AddViewController.xib */; };
+		72481F0F214973CC00995976 /* Timer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72481F0E214973CC00995976 /* Timer.swift */; };
+		72A2D86F216A47CF000DF2A4 /* rowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72A2D86E216A47CF000DF2A4 /* rowView.swift */; };
+		72A2D871216B3F9C000DF2A4 /* GameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72A2D870216B3F9C000DF2A4 /* GameView.swift */; };
+		72AA3835209592520033E8AC /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72AA3834209592520033E8AC /* Game.swift */; };
+		72C3579F21F6A4E100B2F9D7 /* Socket.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72C3579E21F6A4E100B2F9D7 /* Socket.swift */; };
+		72C6B61A214F7E8900F91AA7 /* HelpWindow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72C6B619214F7E8900F91AA7 /* HelpWindow.swift */; };
+		72C6B61D2150898200F91AA7 /* HistoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72C6B61B2150898200F91AA7 /* HistoryViewController.swift */; };
+		72C6B61E2150898200F91AA7 /* HistoryViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 72C6B61C2150898200F91AA7 /* HistoryViewController.xib */; };
+		72CFC7862154907C00446848 /* DataStruct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72CFC7852154907C00446848 /* DataStruct.swift */; };
 		72E8EF0B202946F10071AB1C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72E8EF0A202946F10071AB1C /* AppDelegate.swift */; };
-		72E8EF0D202946F10071AB1C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72E8EF0C202946F10071AB1C /* ViewController.swift */; };
+		72E8EF0D202946F10071AB1C /* ScoreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72E8EF0C202946F10071AB1C /* ScoreViewController.swift */; };
 		72E8EF10202946F10071AB1C /* Scorer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 72E8EF0E202946F10071AB1C /* Scorer.xcdatamodeld */; };
 		72E8EF12202946F10071AB1C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 72E8EF11202946F10071AB1C /* Assets.xcassets */; };
 		72E8EF15202946F10071AB1C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 72E8EF13202946F10071AB1C /* Main.storyboard */; };
+		72E8EF1F202976B70071AB1C /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72E8EF1D202976B70071AB1C /* SettingsViewController.swift */; };
+		72E8EF20202976B70071AB1C /* SettingsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 72E8EF1E202976B70071AB1C /* SettingsViewController.xib */; };
+		D138EB5631075C5FA6D148EB /* Pods_Scorer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6B90980805BE44A7A92898F4 /* Pods_Scorer.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6B90980805BE44A7A92898F4 /* Pods_Scorer.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Scorer.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		7218E16321EDA862004583F9 /* AddViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddViewController.swift; sourceTree = "<group>"; };
+		7218E16421EDA862004583F9 /* AddViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = AddViewController.xib; sourceTree = "<group>"; };
+		72481F0E214973CC00995976 /* Timer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Timer.swift; sourceTree = "<group>"; };
+		72724279214A1311004D8591 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
+		72A2D86E216A47CF000DF2A4 /* rowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rowView.swift; sourceTree = "<group>"; };
+		72A2D870216B3F9C000DF2A4 /* GameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameView.swift; sourceTree = "<group>"; };
+		72AA3834209592520033E8AC /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
+		72C3579E21F6A4E100B2F9D7 /* Socket.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Socket.swift; sourceTree = "<group>"; };
+		72C6B619214F7E8900F91AA7 /* HelpWindow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelpWindow.swift; sourceTree = "<group>"; };
+		72C6B61B2150898200F91AA7 /* HistoryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryViewController.swift; sourceTree = "<group>"; };
+		72C6B61C2150898200F91AA7 /* HistoryViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = HistoryViewController.xib; sourceTree = "<group>"; };
+		72CFC7852154907C00446848 /* DataStruct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataStruct.swift; sourceTree = "<group>"; };
 		72E8EF07202946F10071AB1C /* Scorer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Scorer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		72E8EF0A202946F10071AB1C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		72E8EF0C202946F10071AB1C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		72E8EF0C202946F10071AB1C /* ScoreViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreViewController.swift; sourceTree = "<group>"; };
 		72E8EF0F202946F10071AB1C /* Scorer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Scorer.xcdatamodel; sourceTree = "<group>"; };
 		72E8EF11202946F10071AB1C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		72E8EF14202946F10071AB1C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		72E8EF16202946F10071AB1C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		72E8EF17202946F10071AB1C /* Scorer.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Scorer.entitlements; sourceTree = "<group>"; };
+		72E8EF1D202976B70071AB1C /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		72E8EF1E202976B70071AB1C /* SettingsViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SettingsViewController.xib; sourceTree = "<group>"; };
+		72E8EF2120297CE30071AB1C /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Main.strings"; sourceTree = "<group>"; };
+		79AAF0FC1BAA1ADC732C0976 /* Pods-Scorer.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Scorer.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Scorer/Pods-Scorer.debug.xcconfig"; sourceTree = "<group>"; };
+		89CF8079055A3349E5385420 /* Pods-Scorer.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Scorer.release.xcconfig"; path = "Pods/Target Support Files/Pods-Scorer/Pods-Scorer.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -30,17 +62,45 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D138EB5631075C5FA6D148EB /* Pods_Scorer.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1C18758ECD77F9F459EB9F32 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				6B90980805BE44A7A92898F4 /* Pods_Scorer.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		427E55188427046536B3C1ED /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				79AAF0FC1BAA1ADC732C0976 /* Pods-Scorer.debug.xcconfig */,
+				89CF8079055A3349E5385420 /* Pods-Scorer.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		727EF19621FFFB5400A238E4 /* Xibs */ = {
+			isa = PBXGroup;
+			children = (
+				7218E16421EDA862004583F9 /* AddViewController.xib */,
+			);
+			path = Xibs;
+			sourceTree = "<group>";
+		};
 		72E8EEFE202946F10071AB1C = {
 			isa = PBXGroup;
 			children = (
 				72E8EF09202946F10071AB1C /* Scorer */,
 				72E8EF08202946F10071AB1C /* Products */,
+				427E55188427046536B3C1ED /* Pods */,
+				1C18758ECD77F9F459EB9F32 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -56,14 +116,35 @@
 			isa = PBXGroup;
 			children = (
 				72E8EF0A202946F10071AB1C /* AppDelegate.swift */,
-				72E8EF0C202946F10071AB1C /* ViewController.swift */,
 				72E8EF11202946F10071AB1C /* Assets.xcassets */,
 				72E8EF13202946F10071AB1C /* Main.storyboard */,
+				7218E16321EDA862004583F9 /* AddViewController.swift */,
+				727EF19621FFFB5400A238E4 /* Xibs */,
+				72F35E88216714C600CDC2BB /* Core Data */,
+				72C6B61B2150898200F91AA7 /* HistoryViewController.swift */,
+				72E8EF0C202946F10071AB1C /* ScoreViewController.swift */,
+				72C3579E21F6A4E100B2F9D7 /* Socket.swift */,
+				72A2D870216B3F9C000DF2A4 /* GameView.swift */,
+				72A2D86E216A47CF000DF2A4 /* rowView.swift */,
+				72C6B61C2150898200F91AA7 /* HistoryViewController.xib */,
+				72E8EF1E202976B70071AB1C /* SettingsViewController.xib */,
+				72AA3834209592520033E8AC /* Game.swift */,
+				72481F0E214973CC00995976 /* Timer.swift */,
+				72E8EF1D202976B70071AB1C /* SettingsViewController.swift */,
 				72E8EF16202946F10071AB1C /* Info.plist */,
 				72E8EF17202946F10071AB1C /* Scorer.entitlements */,
-				72E8EF0E202946F10071AB1C /* Scorer.xcdatamodeld */,
+				72C6B619214F7E8900F91AA7 /* HelpWindow.swift */,
 			);
 			path = Scorer;
+			sourceTree = "<group>";
+		};
+		72F35E88216714C600CDC2BB /* Core Data */ = {
+			isa = PBXGroup;
+			children = (
+				72CFC7852154907C00446848 /* DataStruct.swift */,
+				72E8EF0E202946F10071AB1C /* Scorer.xcdatamodeld */,
+			);
+			path = "Core Data";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -73,9 +154,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 72E8EF1A202946F10071AB1C /* Build configuration list for PBXNativeTarget "Scorer" */;
 			buildPhases = (
+				A9E7DD8BFEEA481A2C23F507 /* [CP] Check Pods Manifest.lock */,
 				72E8EF03202946F10071AB1C /* Sources */,
 				72E8EF04202946F10071AB1C /* Frameworks */,
 				72E8EF05202946F10071AB1C /* Resources */,
+				78554560E620476A7A929F69 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -99,6 +182,11 @@
 					72E8EF06202946F10071AB1C = {
 						CreatedOnToolsVersion = 9.2;
 						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.Sandbox = {
+								enabled = 1;
+							};
+						};
 					};
 				};
 			};
@@ -126,20 +214,76 @@
 			buildActionMask = 2147483647;
 			files = (
 				72E8EF12202946F10071AB1C /* Assets.xcassets in Resources */,
+				72E8EF20202976B70071AB1C /* SettingsViewController.xib in Resources */,
+				7218E16621EDA862004583F9 /* AddViewController.xib in Resources */,
 				72E8EF15202946F10071AB1C /* Main.storyboard in Resources */,
+				72C6B61E2150898200F91AA7 /* HistoryViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		78554560E620476A7A929F69 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Scorer/Pods-Scorer-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Socket.IO-Client-Swift/SocketIO.framework",
+				"${BUILT_PRODUCTS_DIR}/Starscream/Starscream.framework",
+				"${BUILT_PRODUCTS_DIR}/SwiftSocket/SwiftSocket.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SocketIO.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Starscream.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SwiftSocket.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Scorer/Pods-Scorer-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		A9E7DD8BFEEA481A2C23F507 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Scorer-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		72E8EF03202946F10071AB1C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				72E8EF0D202946F10071AB1C /* ViewController.swift in Sources */,
+				72C6B61A214F7E8900F91AA7 /* HelpWindow.swift in Sources */,
+				72E8EF0D202946F10071AB1C /* ScoreViewController.swift in Sources */,
+				7218E16521EDA862004583F9 /* AddViewController.swift in Sources */,
+				72AA3835209592520033E8AC /* Game.swift in Sources */,
+				72A2D86F216A47CF000DF2A4 /* rowView.swift in Sources */,
 				72E8EF0B202946F10071AB1C /* AppDelegate.swift in Sources */,
+				72A2D871216B3F9C000DF2A4 /* GameView.swift in Sources */,
+				72C3579F21F6A4E100B2F9D7 /* Socket.swift in Sources */,
+				72481F0F214973CC00995976 /* Timer.swift in Sources */,
+				72CFC7862154907C00446848 /* DataStruct.swift in Sources */,
 				72E8EF10202946F10071AB1C /* Scorer.xcdatamodeld in Sources */,
+				72E8EF1F202976B70071AB1C /* SettingsViewController.swift in Sources */,
+				72C6B61D2150898200F91AA7 /* HistoryViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -150,6 +294,8 @@
 			isa = PBXVariantGroup;
 			children = (
 				72E8EF14202946F10071AB1C /* Base */,
+				72E8EF2120297CE30071AB1C /* zh-Hans */,
+				72724279214A1311004D8591 /* en */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -161,6 +307,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -205,7 +352,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = macosx;
@@ -218,6 +365,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -256,7 +404,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = macosx;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
@@ -265,9 +413,11 @@
 		};
 		72E8EF1B202946F10071AB1C /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 79AAF0FC1BAA1ADC732C0976 /* Pods-Scorer.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = Scorer/Scorer.entitlements;
+				CODE_SIGN_IDENTITY = "Mac Developer";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_TEAM = 486B9F2DGV;
@@ -275,15 +425,18 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Johnson-Zhou.Scorer";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.0;
 			};
 			name = Debug;
 		};
 		72E8EF1C202946F10071AB1C /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 89CF8079055A3349E5385420 /* Pods-Scorer.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = Scorer/Scorer.entitlements;
+				CODE_SIGN_IDENTITY = "Mac Developer";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_TEAM = 486B9F2DGV;
@@ -291,6 +444,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Johnson-Zhou.Scorer";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.0;
 			};
 			name = Release;

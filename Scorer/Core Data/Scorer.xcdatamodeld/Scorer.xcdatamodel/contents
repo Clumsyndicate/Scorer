@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14460.32" systemVersion="18C54" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="GameEntity" representedClassName="GameEntity" syncable="YES" codeGenerationType="class">
+        <attribute name="gameType" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="team1" optional="YES" attributeType="Transformable" customClassName="[Int]" syncable="YES"/>
+        <attribute name="team1Name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="team1Score" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="team2" optional="YES" attributeType="Transformable" customClassName="[Int]" syncable="YES"/>
+        <attribute name="team2Name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="team2Score" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <relationship name="school" optional="YES" toMany="YES" maxCount="2" deletionRule="Nullify" ordered="YES" destinationEntity="SchoolEntity" inverseName="hasGame" inverseEntity="SchoolEntity" syncable="YES"/>
+    </entity>
+    <entity name="SchoolEntity" representedClassName="SchoolEntity" syncable="YES" codeGenerationType="class">
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="hasGame" optional="YES" maxCount="1" deletionRule="Nullify" ordered="YES" destinationEntity="GameEntity" inverseName="school" inverseEntity="GameEntity" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="GameEntity" positionX="-63" positionY="-18" width="128" height="165"/>
+        <element name="SchoolEntity" positionX="217.6953125" positionY="0.078125" width="128" height="75"/>
+    </elements>
+</model>
